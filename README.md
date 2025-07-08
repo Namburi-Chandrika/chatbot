@@ -51,7 +51,7 @@ Before you begin, ensure you have the following:
     your-project-name/
     ├── .streamlit/
     │   └── secrets.toml
-    ├── app.py
+    ├── chatbot_app.py
     ├── requirements.txt
     └── README.md
     ```
@@ -67,4 +67,4 @@ Before you begin, ensure you have the following:
 Once everything is set up, run the Streamlit application from your terminal:
 
 ```bash
-streamlit run app.py
+streamlit run chatbot_app.py
